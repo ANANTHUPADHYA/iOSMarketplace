@@ -117,3 +117,16 @@ We are using Firestore Database for our iOS application. All the items list, use
 We are using Firebase Storage for storing all the images.</br>
 
 ![](screenshots/FirebaseStorage.PNG)</br>
+
+**Algolia Search**
+We are using Algolia for efficient and faster search of the items. The items are indexed and stored in the Algolia. As the items are indexed the search on the item gives faster results.
+
+![](screenshots/Algolia.PNG)
+
+**Stripe Integration**
+
+We made use of Stripe to make the payment. We integrated with Stripe APIs for building our payment gateway
+
+![](screenshots/Stripe.PNG)
+![](screenshots/StripeIntegration.PNG)
+
