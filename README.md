@@ -92,3 +92,28 @@ Initial Setup and Environment Setup **Ananth and Deesha**
 2. Shopping Basket
 3. Purchase History
 4. Adding Stripe Payment Option
+
+** Google Firebase **
+
+We have used Google firebase for our authentication, database and storage of item images.
+
+** Authentication **
+ 
+We are using sign-in method as username and password. We validate these username and password and then allow the user to login. </br>
+![](screenshots/Authentication.PNG)</br>
+	
+** Firestore Database **
+
+We are using Firestore Database for our iOS application. All the items list, user details, purchased history, categories of items are all stored in the DB</br>
+
+![](screenshots/FirestoreDatabase.PNG)</br>
+
+![](screenshots/FirestoreDatabase1.PNG)</br>
+
+![](screenshots/FirestoreDatabase2.PNG)</br>
+
+** Firestore Storage **
+
+We are using Firebase Storage for storing all the images.</br>
+
+![](screenshots/FirebaseStorage.PNG)</br>
